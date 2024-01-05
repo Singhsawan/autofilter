@@ -1,7 +1,6 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ 👋 {}</b>
-
-<b>Mʏ Nᴀᴍᴇ Is <a href="https://t.me/{}">{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Sᴇʀɪᴇs, Aɴɪᴍᴀᴛɪᴏɴ, Cᴀʀᴛᴏᴏɴ, Aɴɪᴍᴇ, K-Dʀᴀᴍᴀ & Mᴀɴʏ Mᴏʀᴇ ☺ Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ EɴJᴏʏ 😍</b>"""
+    START_TXT = """<b>Hy Prince !,
+I'm a bot made for @GUDDU_BOLTE  I can help you find movies.🙂 For any enquiry contact Admin @GUDDU_BOLTE</b>"""
 
     HELP_TXT = """<b>Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  
