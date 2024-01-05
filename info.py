@@ -21,7 +21,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "6874139632:AAHvwsK3PMl5IiR_Q8pKkK6Ik_mJFaN
 CACHE_TIME = int(environ.get('CACHE_TIME', 99999))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/334f55c6c77100e6b85e3.mp4')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/645f291eb225c48455334.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/41a08d01363c18ca909f1.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/6f55d902f9bf2d0afd4bb.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
@@ -43,7 +43,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Linkbot:pass@cluster0.0caigo2.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Prince:pass@cluster0.4hxuk8x.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Clushhter0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
