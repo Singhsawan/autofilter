@@ -58,7 +58,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 <b>Nᴏᴛᴇ</b>: ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛꜱ ꜱᴛʏʟᴇ, ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪꜱ ꜰᴏʀᴍᴀᴛ. 
 
-<code>/font Badsha_Studios</code>"""
+<code>/font Guddu_Bolte</code>"""
 
     MANUELFILTER_TXT = """Hᴇʟᴘ : <b>Fɪʟᴛᴇʀꜱ</b>
     
@@ -266,8 +266,8 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
 📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
 
-<b>🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/Badsha_Studios">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
-🔰 Gʀᴏᴜᴘ : <a href="https://t.me/Badsha_Studios">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
+<b>🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/+jybuittyOuEwZWVl">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+🔰 Gʀᴏᴜᴘ : <a href="https://t.me/+jybuittyOuEwZWVl">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
