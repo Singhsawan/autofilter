@@ -265,8 +265,8 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 🗂 𝗙𝗶𝗹𝗲: <b><font class=smcp>{file_name}</font></b>
 📀 𝗦𝗶𝘇𝗲: <b><font class=smcp>{file_size}</font></b>
 
-<b>🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/+jybuittyOuEwZWVl">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
-🔰 Gʀᴏᴜᴘ : <a href="https://t.me/+jybuittyOuEwZWVl">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
+<b>🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/moviematee">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+🔰 Gʀᴏᴜᴘ : <a href="https://t.me/+GbJHYc8D3yc3OTNl">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
