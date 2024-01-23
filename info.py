@@ -21,10 +21,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "6455034493:AAGFSN05TwIUUGIl5TWdjU7a021m1Vr
 CACHE_TIME = int(environ.get('CACHE_TIME', 99999))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/645f291eb225c48455334.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/41a08d01363c18ca909f1.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/6f55d902f9bf2d0afd4bb.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/8ddd25e5d02805e8fa323.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/45c377e2221c42867e356.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/8ddd25e5d02805e8fa323.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/45c377e2221c42867e356.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5335962161 5408556017').split()]
@@ -59,7 +59,7 @@ MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+GbJHYc8D3yc3OTNl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+GbJHYc8D3yc3OTNl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/moviemateeupdates')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Badsha_Studios')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : ɴ33ᴠᴀʀᴘ')
