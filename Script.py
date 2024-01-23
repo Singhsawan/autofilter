@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hy Prince !,
-I'm a bot made for @GUDDU_BOLTE  I can help you find movies.🙂 For any enquiry contact Admin @GUDDU_BOLTE</b>"""
+    START_TXT = """<b>Hy I can help you find movies.🙂 For any enquiry contact Admin @Jiten_owner"""
 
     HELP_TXT = """<b>Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  
@@ -58,7 +57,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 <b>Nᴏᴛᴇ</b>: ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛꜱ ꜱᴛʏʟᴇ, ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪꜱ ꜰᴏʀᴍᴀᴛ. 
 
-<code>/font Guddu_Bolte</code>"""
+<code>/font Jiten_owner</code>"""
 
     MANUELFILTER_TXT = """Hᴇʟᴘ : <b>Fɪʟᴛᴇʀꜱ</b>
     
